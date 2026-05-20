@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1E3A8A,100:2563EB&text=G%C3%BCrkan%20Soyt%C3%BCrk&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Local%20AI%20%26%20LLMOps&descAlignY=58&descSize=16" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:0F172A,50:1E3A8A,100:2563EB&amp;text=G%C3%BCrkan%20Soyt%C3%BCrk&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Local%20AI%20and%20LLMOps&amp;descAlignY=58&amp;descSize=16" alt="Profile Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Building+full-stack+software+systems;Designing+real-time+and+collaborative+applications;Developing+privacy-focused+local+AI+workflows;Working+with+RAG%2C+MCP%2C+LLMOps+and+automation+pipelines;Deploying+production+web+applications+on+real+hosting+environments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+full-stack+software+systems;Designing+real-time+and+collaborative+applications;Developing+privacy-focused+local+AI+workflows;Working+with+RAG%2C+MCP%2C+LLMOps+and+automation+pipelines;Deploying+production+web+applications+on+real+hosting+environments" alt="Typing SVG" />
 </p>
 
 <p align="center">
