@@ -86,7 +86,7 @@ My work combines backend engineering, TypeScript-based web applications, WebSock
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
