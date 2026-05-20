@@ -203,27 +203,99 @@ My work combines backend engineering, TypeScript-based web applications, WebSock
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/grknsytrk/among-lies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grknsytrk&amp;repo=among-lies&amp;theme=github_dark&amp;hide_border=true&amp;border_radius=12" alt="Among Lies Game Repository Card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>Among Lies Game</h3>
+      <p>
+        Real-time multiplayer social deduction game focused on synchronized gameplay state, lobby flow, and interactive player actions.
+      </p>
+      <p>
+        <a href="https://among-lies-game.vercel.app"><b>Live Demo</b></a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/grknsytrk/among-lies"><b>Source Code</b></a>
+      </p>
+      <p>
+        <code>TypeScript</code>
+        <code>Socket.IO</code>
+        <code>Real-Time State</code>
+        <code>Multiplayer Logic</code>
+      </p>
+      <ul>
+        <li>Real-time multiplayer architecture</li>
+        <li>Lobby and session state management</li>
+        <li>Synchronized client-server gameplay flow</li>
+        <li>Interactive player action handling</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/grknsytrk/sketch-it">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grknsytrk&amp;repo=sketch-it&amp;theme=github_dark&amp;hide_border=true&amp;border_radius=12" alt="Sketch It Repository Card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>Sketch It</h3>
+      <p>
+        Collaborative drawing and guessing application powered by WebSockets, live canvas updates, and real-time chat interactions.
+      </p>
+      <p>
+        <a href="https://sketch-it-5zo0.onrender.com"><b>Live Demo</b></a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/grknsytrk/sketch-it"><b>Source Code</b></a>
+      </p>
+      <p>
+        <code>Node.js</code>
+        <code>WebSockets</code>
+        <code>Canvas</code>
+        <code>Live Collaboration</code>
+      </p>
+      <ul>
+        <li>Concurrent canvas state handling</li>
+        <li>Real-time communication with WebSockets</li>
+        <li>Live chat and interactive session flow</li>
+        <li>Collaborative multiplayer user experience</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/grknsytrk/f1-driver-rater">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grknsytrk&amp;repo=f1-driver-rater&amp;theme=github_dark&amp;hide_border=true&amp;border_radius=12" alt="F1 Driver Rater Repository Card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>F1 Driver Rater</h3>
+      <p>
+        Formula 1 focused web application for rating, comparing, and analyzing driver performances through a responsive interface.
+      </p>
+      <p>
+        <a href="https://f1-driver-rater.vercel.app"><b>Live Demo</b></a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/grknsytrk/f1-driver-rater"><b>Source Code</b></a>
+      </p>
+      <p>
+        <code>React</code>
+        <code>REST API</code>
+        <code>Responsive UI</code>
+        <code>Product Logic</code>
+      </p>
+      <ul>
+        <li>Driver rating and comparison workflows</li>
+        <li>Responsive frontend implementation</li>
+        <li>Structured RESTful API usage</li>
+        <li>Domain-specific product design</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/grknsytrk/anime-folio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grknsytrk&amp;repo=anime-folio&amp;theme=github_dark&amp;hide_border=true&amp;border_radius=12" alt="Anime Folio Repository Card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>Anime Folio</h3>
+      <p>
+        Minimalist anime portfolio integrated with the MyAnimeList API and enhanced with local AI / LLM workflow concepts.
+      </p>
+      <p>
+        <a href="https://anime-folio.vercel.app"><b>Live Demo</b></a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/grknsytrk/anime-folio"><b>Source Code</b></a>
+      </p>
+      <p>
+        <code>API Integration</code>
+        <code>MyAnimeList</code>
+        <code>Local AI</code>
+        <code>Creative Frontend</code>
+      </p>
+      <ul>
+        <li>External API integration</li>
+        <li>AI-assisted content workflow concept</li>
+        <li>Minimalist creative portfolio structure</li>
+        <li>Context-aware anime review and commentary system</li>
+      </ul>
     </td>
   </tr>
 </table>
