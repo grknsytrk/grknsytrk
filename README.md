@@ -1,7 +1,7 @@
 ### 🚀 About Me
 I am a new graduate Computer Engineer with hands-on experience building end-to-end software systems, real-time architectures, and privacy-focused local AI workflows.
 - 🎓 **Education:** Computer Engineering graduate from Konya Technical University with a GPA of 3.43/4.
-- 🧠 **AI & ML Focus:** Deeply interested in LLMs, Parameter-Efficient Fine-Tuning (LoRA/PEFT), Transformer architectures, Retrieval-Augmented Generation, and MCP-Based Model Orchestration.
+- 🧠 🧠 **AI & ML Focus:** Deeply interested in Large Language Models (LLMs), Parameter-Efficient Fine-Tuning (**LoRA / PEFT**), and Transformer architectures. Focused on engineering production-ready **Local AI workflows**, structured **LLMOps pipelines**, and automated agentic systems via **n8n orchestration**, Retrieval-Augmented Generation (RAG), and MCP.
 - 🕹️ **Game Development:** Experienced in designing deterministic logic and synchronized client-server state management. 
 - 💻 **Web Engineering:** Developing full-stack web applications utilizing clean architecture, RESTful APIs, and real-time communication.
 
