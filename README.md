@@ -1,11 +1,26 @@
-### 🚀 About Me
-I am a new graduate Computer Engineer with hands-on experience building end-to-end software systems, real-time architectures, and privacy-focused local AI workflows.
-- 🎓 **Education:** Computer Engineering graduate from Konya Technical University with a GPA of 3.43/4.
-- 🧠 **AI & ML Focus:** Deeply interested in Large Language Models (LLMs), Parameter-Efficient Fine-Tuning (**LoRA / PEFT**), and Transformer architectures. Focused on engineering production-ready **Local AI workflows**, structured **LLMOps pipelines**, and automated agentic systems via **n8n orchestration**, Retrieval-Augmented Generation (RAG), and MCP.
-- 🕹️ **Game Development:** Experienced in designing deterministic logic and synchronized client-server state management. 
-- 💻 **Web Engineering:** Developing full-stack web applications utilizing clean architecture, RESTful APIs, and real-time communication.
+# Gürkan Soytürk
 
-### 🛠️ Tech Stack & Tools
+I am a new graduate Computer Engineer with hands-on experience building end-to-end software systems, real-time architectures, and privacy-focused local AI workflows.
+
+---
+
+### GitHub Stats
+
+![Gürkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grknsytrk&show_icons=true&theme=neutral&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grknsytrk&layout=compact&theme=neutral&hide_border=true)
+
+---
+
+### About Me
+
+- **Education:** Computer Engineering graduate from Konya Technical University with a GPA of 3.43/4.
+- **AI & ML Focus:** Deeply interested in Large Language Models (LLMs), Parameter-Efficient Fine-Tuning (LoRA / PEFT), and Transformer architectures. Focused on engineering production-ready Local AI workflows, structured LLMOps pipelines, and automated agentic systems via n8n orchestration, Retrieval-Augmented Generation (RAG), and MCP.
+- **Game Development:** Experienced in designing deterministic logic and synchronized client-server state management. 
+- **Web Engineering:** Developing full-stack web applications utilizing clean architecture, RESTful APIs, and real-time communication.
+
+---
+
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -18,9 +33,9 @@ I am a new graduate Computer Engineer with hands-on experience building end-to-e
 
 ---
 
-### 📈 Featured Experience & Projects
+### Featured Experience & Projects
 
-#### 🏢 Professional Experience
+#### Professional Experience
 
 **Backend Developer** @ *Sürmene Rasyonel Kişisel Gelişim Kursu (surmenerasyonelkurs.com.tr)*
 - Designed and developed the backend infrastructure and API integrations for the institutional web platform.
@@ -31,9 +46,9 @@ I am a new graduate Computer Engineer with hands-on experience building end-to-e
 - **AI Maintenance Assistant:** Engineered a local AI agent that utilizes historical "problem-solution" logs to identify failure patterns and recommend troubleshooting steps.
 - **Secure Local Architecture:** Built a privacy-focused system using local LLMs and automation workflows to process sensitive manufacturing data without cloud dependencies.
 - **Custom MCP Server:** Developed a custom bridge between the AI and the database, enabling real-time data retrieval and context-aware responses.
-- **Natural Language Troubleshooting:** Empowered maintenance teams to ask questions like **"How do I fix this fault?"** and receive instant, data-backed solutions.
+- **Natural Language Troubleshooting:** Empowered maintenance teams to ask questions like "How do I fix this fault?" and receive instant, data-backed solutions.
 
-#### 🕹️ Live Projects
+#### Live Projects
 
 **[Among Lies Game](https://github.com/grknsytrk/among-lies) ([Live](https://among-lies-game.vercel.app))**
 - A web-based multiplayer social deduction game inspired by modern networking mechanics.
@@ -51,9 +66,10 @@ I am a new graduate Computer Engineer with hands-on experience building end-to-e
 - A premium, minimalist creative portfolio integrated with the MyAnimeList API to dynamically fetch and showcase anime data.
 - Features automated, context-aware anime reviews and commentary powered by a privacy-focused local AI/LLM workflow.
 
+---
 
-### 📫 Connect with Me
+### Connect with Me
 
-- 💼 **LinkedIn:** [Gürkan Soytürk](https://www.linkedin.com/in/gürkan-soytürk-69ab45251)
-- 📧 **Email:** soyturkgurkan.61@gmail.com 
-- 📍 **Location:** Trabzon, Türkiye ```
+- **LinkedIn:** [Gürkan Soytürk](https://www.linkedin.com/in/gürkan-soytürk-69ab45251)
+- **Email:** soyturkgurkan.61@gmail.com 
+- **Location:** Trabzon, Türkiye
