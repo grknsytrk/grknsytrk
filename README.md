@@ -44,7 +44,7 @@ My work combines backend engineering, TypeScript-based web applications, WebSock
     <td width="25%" align="center">
       <b>Deployment</b>
       <br />
-      <sub>cPanel, Node.js hosting, Prisma, MariaDB</sub>
+      <sub>cPanel, Node.js hosting, Prisma, MySQL</sub>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ My work combines backend engineering, TypeScript-based web applications, WebSock
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
-      <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
@@ -154,13 +154,13 @@ My work combines backend engineering, TypeScript-based web applications, WebSock
         <img src="https://img.shields.io/badge/cPanel%20Deployment-FF6C2C?style=flat-square&amp;logo=cpanel&amp;logoColor=white" alt="cPanel Deployment" />
         <img src="https://img.shields.io/badge/Node.js%20Hosting-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js Hosting" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
       </p>
       <ul>
         <li>Developed backend infrastructure and API workflows for a real-world institutional web platform.</li>
         <li>Worked with database-backed admin operations, application flows, server-side data handling, and form processing.</li>
         <li>Managed production deployment on a cPanel-based shared hosting environment.</li>
-        <li>Configured Node.js runtime behavior, environment variables, database connectivity, Prisma workflows, and production migration steps.</li>
+        <li>Configured Node.js runtime behavior, environment variables, MySQL database connectivity, Prisma workflows, and production migration steps.</li>
         <li>Handled deployment troubleshooting around hosting limits, SSL/domain behavior, database connectivity, and production stability.</li>
       </ul>
     </td>
@@ -273,7 +273,7 @@ My work combines backend engineering, TypeScript-based web applications, WebSock
     <td><a href="https://surmenerasyonelkurs.com.tr">surmenerasyonelkurs.com.tr</a></td>
     <td>Private / production project</td>
     <td>Institutional education platform with backend workflows, admin operations, and production deployment.</td>
-    <td>Next.js, Node.js, Prisma, MariaDB, cPanel, CloudLinux</td>
+    <td>Next.js, Node.js, Prisma, MySQL, cPanel, CloudLinux</td>
   </tr>
   <tr>
     <td><b>Toyota Local AI System</b></td>
